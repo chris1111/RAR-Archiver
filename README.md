@@ -8,8 +8,8 @@
 
 - Create by: [chris1111](https://github.com/chris1111/)
 - From: [Platypus 5.3](https://sveinbjorn.org/platypus)
-- Credit:[Alexander Roshal](https://www.rarlab.com/)
-- Credit: [unar Aaron Shang](https://github.com/ashang/unar)
+- Credit: [(rar) Copyright (c) Alexander Roshal](https://www.rarlab.com/)
+- Credit: [(unar) Copyright (c) Aaron Shang](https://github.com/ashang/unar)
 
 ## Follow the Video ⬇︎
 
