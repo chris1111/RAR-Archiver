@@ -13,4 +13,4 @@
 
 [![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/KS8lTifiuGE)
 
-Download Release V1 ➤ [RAR-Archiver.zip]()
+Download Release V1 ➤ [RAR-Archiver.zip](https://github.com/chris1111/RAR-Archiver/releases/tag/V1)
