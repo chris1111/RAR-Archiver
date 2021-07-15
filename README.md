@@ -4,6 +4,8 @@
 
 ### RAR-Archiver can extract .rar, .7Z, .ZIP, .TAR, .GZIP, .BZIP2, .XZ, .pkg, payload, Scripts files.
 
+### Working from OS X Montain Lion 10.8 to macOS Monterey 11
+
 - Create by: [chris1111](https://github.com/chris1111/)
 - From: [Platypus 5.3](https://sveinbjorn.org/platypus)
 - Credit:[Alexander Roshal](https://www.rarlab.com/)
