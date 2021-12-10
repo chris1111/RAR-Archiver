@@ -11,7 +11,7 @@
 - Credit: [(rar) Copyright (c) Alexander Roshal](https://www.rarlab.com/)
 - Credit: [(unar) Copyright (c) Aaron Shang](https://github.com/ashang/unar)
 
-## Follow the Video ⬇︎
+## ⬇︎ Follow the Video ⬇︎
 
 [![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/KS8lTifiuGE)
 
